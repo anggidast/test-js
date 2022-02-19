@@ -1,1 +1,1 @@
-console.log('hai beb');
+console.log('hai sayang');
